@@ -1,0 +1,345 @@
+
+*{
+    box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+.header{
+  
+  padding: 40px;
+  text-align: center;
+  margin: 0;
+  color: wheat;
+  font-family: helvetica sans-serif;
+  background: black;
+  font-size: 20px;
+
+}
+
+.Nav{
+  margin-top: 30px;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+a:link{
+  text-decoration-line: none;
+}
+
+a:hover{
+  color: royalblue;
+  text-decoration-line: underline;
+}
+
+#sponsor{
+  padding-bottom: 10px;
+  margin-right: 40px;
+  padding-bottom: 1%;
+  letter-spacing: 1px;
+  font-family: "Segoe UI";
+  font-weight: normal;
+}
+
+#sponsor a:visited{
+  color: steelblue;
+  text-decoration-line: underline;
+}
+#sponsor a:active{
+  color: royalblue;
+}
+
+#outreach{
+  padding-bottom: 1%;
+  margin-left: 140px;
+  letter-spacing: 1px;
+  font-family: "Segoe UI";
+  font-weight: normal;
+  color: #707070;
+  
+}
+
+#outreach a:visited{
+  color: #707070;
+}
+
+#media{
+  padding-bottom: 1%;
+    margin-right: -100px;
+    letter-spacing: 1px;
+  font-family: "Segoe UI";
+  font-weight: normal;
+  color: #707070;
+
+}
+
+#media a:visited{
+  color: #707070;
+}
+
+.content
+{ 
+    font-size: 25px;
+    justify-content: center;
+    font-family: "Segoe UI";
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    display: inline-flex;
+    height: 210px;
+    width: 210px;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 8px; 
+    border-color: rgba(15, 0, 0, 0.425);
+    padding: 1%; 
+  
+}
+
+img:hover{
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+.sbi{
+      
+     padding-left: 450px; /*Moves image to the left*/
+     margin-top: 50px;
+        /*Moves image to the right*/
+
+
+}
+.coal{
+     padding-left: 850px;
+      margin-top: 50px;
+      justify-content: center;
+      align-items: center;
+
+}
+
+.oil{
+     padding-left: 1250px;
+     margin-top: 50px;
+}
+
+
+.row2{
+      padding-top: 250px;
+
+}
+
+.pnaf{
+      padding-left: 450px;
+
+}
+
+.pari{
+     padding-left: 850px;
+
+}   
+
+
+.hero{
+     padding-left: 1250px;
+  }
+
+
+
+.row3{
+     padding-top: 250px;
+}
+
+
+.moil{
+      padding-left: 450px;
+
+}
+
+.canara{
+     padding-left: 850px;
+
+}   
+
+
+.imerys{
+     padding-left: 1250px;
+  }
+
+.column{
+     margin-bottom: 250px;
+     padding-top: 250px;
+     padding-left: 850px;
+    
+} 
+
+.content2{
+
+    position: absolute;
+    margin-top: 30px; 
+    font-size: 25px;
+    font-family: "Segoe UI";
+    padding-left: 850px;
+    
+    
+} 
+
+.row4{
+     padding-top: 80px;
+     padding-bottom: -100px;
+}
+
+.ib{
+      padding-left: 450px;
+
+}
+
+
+.torrin{
+     padding-left: 850px;
+
+}   
+    
+.ias{
+     padding-left: 1250px;
+  }
+
+.row5{
+      padding-top: 300px;
+
+  }
+
+.di{
+   padding-left: 650px;
+
+} 
+
+
+.hit{
+     padding-left: 1050px;
+}
+
+.content3{
+    position: absolute;
+    font-size: 25px;
+    font-family: "Segoe UI";
+    padding-left: 850px;
+    padding-bottom: 300px;
+    margin-top: 275px;
+
+}
+
+.google{
+         padding-bottom: 200px;  
+         padding-left: 850px;
+         margin-top: 330px;
+}
+
+.content4{
+    position: absolute;
+    font-size: 25px;
+    font-family: "Segoe UI";
+    padding-left: 900px;
+    margin-top: 100px;
+    
+}
+
+.row6{
+   padding-top: 150px;
+}
+
+.ccd{
+     padding-left: 650px;
+}
+
+
+.itc{
+      padding-left: 1050px;
+    
+}
+
+.content5{
+    position: absolute;
+    font-size: 25px;
+    font-family: "Segoe UI";
+    padding-left: 850px;
+    margin-top: 300px;
+    
+}
+
+.row7{
+      
+     padding-top: 350px;
+
+}
+.mii{
+      padding-left: 450px;
+
+}
+
+.tie{
+     padding-left: 850px;
+
+}   
+  
+.civn{
+     padding-left: 1250px;
+  }
+
+
+.row8{
+      
+     padding-top: 250px;
+
+}
+.digin{
+      padding-left: 450px;
+
+}
+
+.yuva{
+     padding-left: 850px;
+
+}   
+
+.student{
+     padding-left: 1250px;
+  }
+
+.vnit{
+      padding-top: 250px;
+      padding-left: 850px;
+
+}
+
+.foot{
+
+  background-color: #242424;
+  padding: 100px;
+  margin: 0;
+  color: navajowhite;
+  font-family: "Segoe UI";
+  margin-top: 500px;
+  margin-bottom: 100px;  /*Adding Bottom margin allows us to extend that much white space*/
+}
+
+#link{
+  text-decoration-line: none;
+  color: steelblue;
+}
+
+
+pre{
+  font-size: 30px;
+}
+
+.Rajat{
+  align-content: centre;
+
+}

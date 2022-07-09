@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+}
+
+.header{
+  
+  padding: 40px;
+  text-align: center;
+  margin: 0;
+  color: wheat;
+  font-family: helvetica sans-serif;
+  background: black;
+  font-size: 20px;
+
+}
+
+
+.Nav{
+  margin-top: 30px;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+a:link{
+  text-decoration-line: none;
+}
+
+a:hover{
+  color: royalblue;
+  text-decoration-line: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+#sponsor{
+  padding-bottom: 10px;
+  margin-right: 40px;
+  padding-bottom: 1%;
+  letter-spacing: 1px;
+  font-family: "Segoe UI";
+  font-weight: normal;
+  color: #707070;
+}
+
+#sponsor a:active{
+  color: #royalblue;
+}
+#outreach{
+  padding-bottom: 1%;
+  margin-left: 140px;
+  letter-spacing: 1px;
+  font-family: "Segoe UI";
+  font-weight: normal;
+ 
+  
+}
+
+#outreach a:visited{
+  color: royalblue;
+  text-decoration-line: underline;
+}
+
+
+#media{
+  padding-bottom: 1%;
+    margin-right: -100px;
+    letter-spacing: 1px;
+  font-family: "Segoe UI";
+  font-weight: normal;
+  color: #707070;
+
+}
+
+#media a:visited{
+  color: #707070;
+}
+
+.content
+{ 
+    font-size: 25px;
+    justify-content: center;
+    font-family: "Segoe UI";
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    display: inline-flex;
+    height: 210px;
+    width: 210px;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 1%;   
+}
+
+img:hover{
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+.d2c{
+    padding-left: 850px;
+
+}
+
+
+.content2
+{ 
+    font-size: 25px;
+    justify-content: center;
+    font-family: "Segoe UI";
+    align-items: center;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.law{
+     padding-left: 850px;
+
+
+}
+
+
+.content3
+{ 
+    font-size: 25px;
+    justify-content: center;
+    font-family: "Segoe UI";
+    align-items: center;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.nlu{
+     padding-left: 850px;
+}
+
+
+.content4
+{ 
+    font-size: 25px;
+    justify-content: center;
+    font-family: "Segoe UI";
+    align-items: center;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.silicon{
+    padding-left: 450px;
+}
+
+.entre{
+      padding-left: 850px;      
+}
+
+.know{  
+     padding-left: 1250px; 
+} 
+
+.content5
+{ 
+    font-size: 25px;
+    justify-content: center;
+    font-family: "Segoe UI";
+    align-items: center;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.orange{
+      padding-left: 850px;      
+}
+
+.foot{
+
+  background-color: #242424;
+  padding: 100px;
+  margin: 0;
+  color: navajowhite;
+  font-family: "Segoe UI";
+  margin-top: 500px;
+  margin-bottom: 100px;  /*Adding Bottom margin allows us to extend that much white space*/
+}
+
+#link{
+  text-decoration-line: none;
+  color: steelblue;
+}
+
+
+pre{
+  font-size: 30px;
+}
+
+.Rajat{
+  align-content: centre;
+
+}
