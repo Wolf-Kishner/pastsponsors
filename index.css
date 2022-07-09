@@ -136,7 +136,7 @@ img{
 	border-style: solid;
     border-width: 1px;
     border-color: rgba(15, 0, 0, 0.425);
-    padding-bottom: 250px;
+    padding-bottom: 450px;
 }
 
 
@@ -153,7 +153,8 @@ img{
 	 border-style: solid;
     border-width: 1px;
     border-color: rgba(15, 0, 0, 0.425);
-     padding-bottom: 250px;
+     padding-bottom: 450px;
+     padding-left: 100px;
 }
 
 }
