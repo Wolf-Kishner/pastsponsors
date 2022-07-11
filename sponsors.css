@@ -8,20 +8,20 @@ body {
 
 .header{
   
-  padding: 40px;
+  padding: 2.0833vw;
   text-align: center;
   margin: 0;
   color: wheat;
   font-family: helvetica sans-serif;
   background: black;
-  font-size: 20px;
+  font-size: 1.0416vw;
 
 }
 
 .Nav{
-  margin-top: 30px;
+  margin-top: 1.5625vw;
   display: flex;
-  font-size: 30px;
+  font-size: 1.5625vw;
   justify-content: center;
   align-items: center;
 
@@ -38,10 +38,10 @@ a:hover{
 }
 
 #sponsor{
-  padding-bottom: 10px;
-  margin-right: 40px;
+  padding-bottom: 0.5208vw;
+  margin-right: 2.0833vw;
   padding-bottom: 1%;
-  letter-spacing: 1px;
+  letter-spacing: 0.05208vw;
   font-family: "Segoe UI";
   font-weight: normal;
 }
@@ -56,8 +56,8 @@ a:hover{
 
 #outreach{
   padding-bottom: 1%;
-  margin-left: 140px;
-  letter-spacing: 1px;
+  margin-left: 7.291vw;
+  letter-spacing: 0.05208vw;
   font-family: "Segoe UI";
   font-weight: normal;
   color: #707070;
@@ -70,8 +70,8 @@ a:hover{
 
 #media{
   padding-bottom: 1%;
-    margin-right: -100px;
-    letter-spacing: 1px;
+    margin-right: -5.208vw;
+    letter-spacing: 0.05208vw;
   font-family: "Segoe UI";
   font-weight: normal;
   color: #707070;
@@ -84,7 +84,7 @@ a:hover{
 
 .content
 { 
-    font-size: 25px;
+    font-size: 1.302vw;
     justify-content: center;
     font-family: "Segoe UI";
     align-items: center;
@@ -94,239 +94,236 @@ a:hover{
 img{
     position: absolute;
     display: inline-flex;
-    height: 210px;
-    width: 210px;
-    margin-top: 30px;
-    border: 1px solid;
-    border-radius: 8px; 
+    height: 10.9375vw;
+    width: 10.9375vw;
+    margin-top: 1.5625vw;
+    border: 0.05208vw solid;
+    border-radius: 0.4166vw; 
     border-color: rgba(15, 0, 0, 0.425);
     padding: 1%; 
   
 }
 
 img:hover{
-   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+   box-shadow: 0 0.4166vw 0.8333vw 0 rgba(0,0,0,0.4);
 }
 
 .sbi{
       
-     padding-left: 450px; /*Moves image to the left*/
-     margin-top: 50px;
-        /*Moves image to the right*/
-
-
+     padding-left: 23.4375vw; 
+     margin-top: 2.604vw;
 }
 .coal{
-     padding-left: 850px;
-      margin-top: 50px;
+     padding-left: 44.27vw;
+      margin-top: 2.604vw;
       justify-content: center;
       align-items: center;
 
 }
 
 .oil{
-     padding-left: 1250px;
-     margin-top: 50px;
+     padding-left: 65.104vw;
+     margin-top: 2.604vw;
 }
 
 
 .row2{
-      padding-top: 250px;
+      padding-top: 13.02vw;
 
 }
 
 .pnaf{
-      padding-left: 450px;
+      padding-left: 23.4375vw;
 
 }
 
 .pari{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 
 }   
 
 
 .hero{
-     padding-left: 1250px;
+     padding-left: 65.104vw;
   }
 
 
 
 .row3{
-     padding-top: 250px;
+     padding-top: 13.02vw;
 }
 
 
 .moil{
-      padding-left: 450px;
+      padding-left: 23.4375vw;
 
 }
 
 .canara{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 
 }   
 
 
 .imerys{
-     padding-left: 1250px;
+     padding-left: 65.104vw;
   }
 
 .column{
-     margin-bottom: 250px;
-     padding-top: 250px;
-     padding-left: 850px;
+     margin-bottom: 13.02vw;
+     padding-top: 13.02vw;
+     padding-left: 44.27vw;
     
 } 
 
 .content2{
 
     position: absolute;
-    margin-top: 30px; 
-    font-size: 25px;
+    margin-top: 1.5625vw; 
+    font-size: 1.302vw;
     font-family: "Segoe UI";
-    padding-left: 850px;
+    padding-left: 44.27vw;
     
     
 } 
 
 .row4{
-     padding-top: 80px;
-     padding-bottom: -100px;
+     padding-top: 4.166vw;
+     padding-bottom: -5.208vw;
 }
 
 .ib{
-      padding-left: 450px;
+      padding-left: 23.4375vw;
 
 }
 
 
 .torrin{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 
 }   
     
 .ias{
-     padding-left: 1250px;
+     padding-left: 65.104vw;
   }
 
 .row5{
-      padding-top: 300px;
+      padding-top: 15.625vw;
 
   }
 
 .di{
-   padding-left: 650px;
+   padding-left: 33.85vw;
 
 } 
 
 
 .hit{
-     padding-left: 1050px;
+     padding-left: 54.68vw;
 }
 
 .content3{
     position: absolute;
-    font-size: 25px;
+    font-size: 1.302w;
     font-family: "Segoe UI";
-    padding-left: 850px;
-    padding-bottom: 300px;
-    margin-top: 275px;
+    padding-left: 44.27vw;
+    padding-bottom: 15.625vw;
+    margin-top: 13.322vw;
 
 }
 
 .google{
-         padding-bottom: 200px;  
-         padding-left: 850px;
-         margin-top: 330px;
+         padding-bottom: 10.416vw;  
+         padding-left: 44.27vw;
+         margin-top: 17.1875vw;
 }
 
 .content4{
     position: absolute;
-    font-size: 25px;
+    font-size: 1.302vw;
     font-family: "Segoe UI";
-    padding-left: 900px;
-    margin-top: 100px;
+    padding-left: 46.875vw;
+    margin-top: 5.2083vw;
     
 }
 
 .row6{
-   padding-top: 150px;
+   padding-top: 7.8125vw;
 }
 
 .ccd{
-     padding-left: 650px;
+     padding-left: 33.854vw;
 }
 
 
 .itc{
-      padding-left: 1050px;
+      padding-left: 54.6875vw;
     
 }
 
 .content5{
     position: absolute;
-    font-size: 25px;
+    font-size: 1.302vw;
     font-family: "Segoe UI";
-    padding-left: 850px;
-    margin-top: 300px;
+    padding-left: 44.27vw;
+    margin-top: 15.625vw;
     
 }
 
 .row7{
       
-     padding-top: 350px;
+     padding-top: 18.229vw;
 
 }
 .mii{
-      padding-left: 450px;
+      padding-left: 23.4375vw;
 
 }
 
 .tie{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 
 }   
   
 .civn{
-     padding-left: 1250px;
+     padding-left: 65.104vw;
   }
 
 
 .row8{
       
-     padding-top: 250px;
+     padding-top: 13.02vw
 
 }
 .digin{
-      padding-left: 450px;
+      padding-left: 23.4375vw;
 
 }
 
 .yuva{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 
 }   
 
 .student{
-     padding-left: 1250px;
+     padding-left: 65.104vw;
   }
 
 .vnit{
-      padding-top: 250px;
-      padding-left: 850px;
+      padding-top: 13.02vw;
+      padding-left: 44.27vw;
 
 }
 
 .foot{
 
   background-color: #242424;
-  padding: 100px;
+  padding: 5.2083vw;
   margin: 0;
   color: navajowhite;
   font-family: "Segoe UI";
-  margin-top: 500px;
-  margin-bottom: 100px;  /*Adding Bottom margin allows us to extend that much white space*/
+  margin-top: 26.04vw;
+  margin-bottom: 5.2083vw;  
 }
 
 #link{
@@ -336,7 +333,7 @@ img:hover{
 
 
 pre{
-  font-size: 30px;
+  font-size: 1.5625vw;
 }
 
 .Rajat{
