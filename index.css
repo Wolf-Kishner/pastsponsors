@@ -7,20 +7,20 @@ body {
 
 .header{
   
-  padding: 40px;
+  padding: 2.0833vw;
   text-align: center;
   margin: 0;
-  color: wheat;
+  color: #ECDBBA;
   font-family: helvetica sans-serif;
-  background: black;
-  font-size: 20px;
+  background: #191919;
+  font-size: 1.0416vw;
 
 }
 
 .Nav{
-	margin-top: 30px;
+	margin-top: 1.5625vw;
 	display: flex;
-	font-size: 30px;
+	font-size: 1.5625vw;
 	justify-content: center;
 	align-items: center;
 
@@ -43,10 +43,10 @@ a:active {
 }
 
 #sponsor{
-	padding-bottom: 10px;
-	margin-right: 40px;
+	padding-bottom: 0.5208vw;
+	margin-right: 2.083vw;
 	padding-bottom: 1%;
-	letter-spacing: 1px;
+	letter-spacing: 0.05208vw;
 	font-family: "Segoe UI";
 	font-weight: normal;
 	color: #707070;
@@ -54,8 +54,8 @@ a:active {
 
 #outreach{
 	padding-bottom: 1%;
-	margin-left: 140px;
-	letter-spacing: 1px;
+	margin-left: 7.291vw;
+	letter-spacing: 0.05208vw;
 	font-family: "Segoe UI";
 	font-weight: normal;
 	color: #707070;	
@@ -68,8 +68,8 @@ a:active {
 
 #media{
 	padding-bottom: 1%;
-    margin-right: -100px;
-    letter-spacing: 1px;
+    margin-right: -5.2083vw;
+    letter-spacing: 0.05208vw;
 	font-family: "Segoe UI";
 	font-weight: normal;
 	color: white;
@@ -90,118 +90,92 @@ a:active {
 
 .content
 { 
-    font-size: 25px;
+    font-size: 1.302vw;
     justify-content: center;
     font-family: "arial sans-serif";
     align-items: center;
     text-align: center;
+    color: #413F42;
 
 }
 
 img{
-	padding: 1%; 
-}
-.images
-{
-	height: 250px;
-	width: 250px;
+	padding: 1%;
+	position: relative;
+    height: 13.02vw;
+	width: 13.02vw;
+	border-radius: 0.4166vw;
+	border-style: solid;
+    border-width: 0.05vw;
+    border-color: rgba(15, 0, 0, 0.425);
+   }
 
+.row1
+{
+	display: inline;
 }
 
 #TOI{
-	margin-left: 300px;
-    position: relative;
-    height: 250px;
-	width: 250px;
-	border-radius: 8px;
-	border-style: solid;
-    border-width: 1px;
-    border-color: rgba(15, 0, 0, 0.425);
+	position: relative;
+	left: 18.2291vw;
 
 }
 
 #TOI:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 0.4166vw  0.833vw rgba(0,0,0,0.4);
 }
 
-
-
 #Random{
-	margin-left: 850px;
-	margin-top: -500px;
-	height: 250px;
-	width: 250px;
-	border-radius: 8px;
-	border-style: solid;
-    border-width: 1px;
-    border-color: rgba(15, 0, 0, 0.425);
-   
+	position: relative;
+	left: 31.25vw;  
 }
 
 
 #Random:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+	box-shadow: 0 0.4166vw  0.833vw rgba(0,0,0,0.4);
+    
 }
 
 #Db
 {
-    margin-left: 1400px;
-    margin-top: -800px;
-    height: 250px;
-	width: 250px;
-	border-radius: 8px;
-	 border-style: solid;
-    border-width: 1px;
-    border-color: rgba(15, 0, 0, 0.425)      
+	position: relative;
+	left: 44.2703vw;  
+    
 }
 
 #Db:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 0.4166vw  0.833vw rgba(0,0,0,0.4);
 }
 
 #Hitvada{
-     height: 250px;
-	width: 250px;
-	border-radius: 8px;
-	border-style: solid;
-    border-width: 1px;
-    margin-left: 1100px;
-    margin-top: -300px;
-    border-color: rgba(15, 0, 0, 0.425);
-
-
+	position: relative;
+	left: 44.2703vw;
 }
 
 #Hitvada:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 0.4166vw  0.833vw rgba(0,0,0,0.4);
 }
 
 #Lokmat{
-     height: 250px;
-	width: 250px;
-	border-radius: 8px;
-	border-style: solid;
-    border-width: 1px;
-    margin-left: 550px;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-color: rgba(15, 0, 0, 0.425);
+	position: relative;
+	left: 31.25vw;
+    
 }
 
 
 #Lokmat:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+   box-shadow: 0 0.4166vw  0.833vw rgba(0,0,0,0.4);
 }
 
 .foot{
 
   background-color: #242424;
-  padding: 100px;
+  padding: 5.20833vw;
   margin: 0;
   color: navajowhite;
   font-family: "Segoe UI";
-  margin-top: 500px;
-  margin-bottom: 100px;  
+  margin-top: 26.04vw;
+  margin-bottom: 5.20833vw;  
 }
 
 #link{
@@ -211,7 +185,7 @@ img{
 
 
 pre{
-	font-size: 30px;
+	font-size: 2.0833vw;
 }
 
 .Rajat{
