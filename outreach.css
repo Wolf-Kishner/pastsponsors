@@ -4,21 +4,21 @@ body {
 
 .header{
   
-  padding: 40px;
+  padding: 2.0833vw;
   text-align: center;
   margin: 0;
   color: wheat;
   font-family: helvetica sans-serif;
   background: black;
-  font-size: 20px;
+  font-size: 1.0416vw;
 
 }
 
 
 .Nav{
-  margin-top: 30px;
+  margin-top: 1.5625vw;
   display: flex;
-  font-size: 30px;
+  font-size: 1.5625vw;
   justify-content: center;
   align-items: center;
 
@@ -38,10 +38,10 @@ a:active {
 }
 
 #sponsor{
-  padding-bottom: 10px;
-  margin-right: 40px;
+  padding-bottom: 0.52083vw;
+  margin-right: 2.0833vw;
   padding-bottom: 1%;
-  letter-spacing: 1px;
+  letter-spacing: 0.052083vw;
   font-family: "Segoe UI";
   font-weight: normal;
   color: #707070;
@@ -52,8 +52,8 @@ a:active {
 }
 #outreach{
   padding-bottom: 1%;
-  margin-left: 140px;
-  letter-spacing: 1px;
+  margin-left: 7.2916vw;
+  letter-spacing: 0.052083vw;
   font-family: "Segoe UI";
   font-weight: normal;
  
@@ -68,8 +68,8 @@ a:active {
 
 #media{
   padding-bottom: 1%;
-    margin-right: -100px;
-    letter-spacing: 1px;
+    margin-right: -5.208vw;
+    letter-spacing: 0.05208vw;
   font-family: "Segoe UI";
   font-weight: normal;
   color: #707070;
@@ -82,7 +82,7 @@ a:active {
 
 .content
 { 
-    font-size: 25px;
+    font-size: 1.302vw;
     justify-content: center;
     font-family: "Segoe UI";
     align-items: center;
@@ -92,36 +92,36 @@ a:active {
 img{
     position: absolute;
     display: inline-flex;
-    height: 210px;
-    width: 210px;
-    margin-top: 30px;
-    border: 1px solid;
-    border-radius: 8px;
+    height: 10.9375vw;
+    width: 10.9375vw;
+    margin-top: 1.5625vw;
+    border: 0.05208vw solid;
+    border-radius: 0.4166vw;
     padding: 1%;   
 }
 
 img:hover{
-   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+   box-shadow: 0 0.4166vw 0.833vw 0 rgba(0,0,0,0.4);
 }
 
 .d2c{
-    padding-left: 850px;
+    padding-left: 44.27vw;
 
 }
 
 
 .content2
 { 
-    font-size: 25px;
+    font-size: 1.302vw;
     justify-content: center;
     font-family: "Segoe UI";
     align-items: center;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 15.625vw;
 }
 
 .law{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 
 
 }
@@ -129,64 +129,64 @@ img:hover{
 
 .content3
 { 
-    font-size: 25px;
+    font-size: 1.3028vw;
     justify-content: center;
     font-family: "Segoe UI";
     align-items: center;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 15.625vw;
 }
 
 .nlu{
-     padding-left: 850px;
+     padding-left: 44.27vw;
 }
 
 
 .content4
 { 
-    font-size: 25px;
+    font-size: 1.3028vw;
     justify-content: center;
     font-family: "Segoe UI";
     align-items: center;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 15.625vw;
 }
 
 .silicon{
-    padding-left: 450px;
+    padding-left: 23.4375vw;
 }
 
 .entre{
-      padding-left: 850px;      
+      padding-left: 44.27vw;      
 }
 
 .know{  
-     padding-left: 1250px; 
+     padding-left: 65.104vw; 
 } 
 
 .content5
 { 
-    font-size: 25px;
+    font-size: 1.302vw;
     justify-content: center;
     font-family: "Segoe UI";
     align-items: center;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 15.625vw;
 }
 
 .orange{
-      padding-left: 850px;      
+      padding-left: 44.27vw;      
 }
 
 .foot{
 
   background-color: #242424;
-  padding: 100px;
+  padding: 5.208vw;
   margin: 0;
   color: navajowhite;
   font-family: "Segoe UI";
-  margin-top: 500px;
-  margin-bottom: 100px;  /*Adding Bottom margin allows us to extend that much white space*/
+  margin-top: 26.041vw;
+  margin-bottom: 5.208vw;  
 }
 
 #link{
@@ -196,7 +196,7 @@ img:hover{
 
 
 pre{
-  font-size: 30px;
+  font-size: 1.5625vw;
 }
 
 .Rajat{
